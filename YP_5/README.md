@@ -12,6 +12,7 @@
 
 ##  Описание данных:
 Данные распределены между тремя файлами:
+
     - gold_recovery_train_new.csv - тренировочная выборка
     - gold_recovery_test_new.csv - тестовая выборка
     - gold_recovery_full_new.csv - полный ДФ
