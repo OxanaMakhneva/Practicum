@@ -14,7 +14,7 @@
 | 7  | <p><a href="https://github.com/OxanaMakhneva/Practicum/tree/main/YP_6"> Защита данных клиентов страховой компании </a></p>| Линейная алгебра  |NumPy, Python, Scikit-learn| Разработка модели анонимизации персональных данных |
 | 8  | <p><a href="https://github.com/OxanaMakhneva/Practicum/tree/main/YP_7"> Определения рыночной стоимости автомобиля </a></p>| Численные методы  |Pandas, Python, lightgbm| Разработка системы рекомендации стоимости автомобиля на основе его описания|
 | 9  | <p><a href="https://github.com/OxanaMakhneva/Practicum/blob/main/YP_8/README.md"> Прогнозирование заказов такси </a></p>| Временные ряды  |Pandas, Python, Scikit-learn, statsmodels| Разработка системы предсказания объема заказа. |
-| 10  | Классификация комментариев | Машинное обучение для текстов  |BERT, Pandas, Python, nltk, tf-idf| Определить токсичные комментарии. |
+| 10  | <p><a href="https://github.com/OxanaMakhneva/Practicum/tree/main/YP_9"> Классификация комментариев </a></p>| Машинное обучение для текстов  |BERT, Pandas, Python, nltk, tf-idf| Определить токсичные комментарии. |
 | 11  | Телеком | Дипломный проект  |Pandas, Python, Catboost, LightGBM, GLM, statsmodels| Разработка системы прогнозирования оттока клиентов |
 
 
